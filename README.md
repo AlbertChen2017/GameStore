@@ -1,2 +1,2 @@
-# GameStore
+# SimpleGame
 A little console game~
